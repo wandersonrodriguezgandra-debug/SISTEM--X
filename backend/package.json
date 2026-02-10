@@ -1,0 +1,1 @@
+{\n  "name": "sst-system",\n  "version": "1.0.0",\n  "description": "A backend for the SST system using Express.js",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js"\n  },\n  "dependencies": {\n    "express": "^4.17.1"\n  },\n  "author": "wandersonrodriguezgandra-debug",\n  "license": "ISC"\n}
